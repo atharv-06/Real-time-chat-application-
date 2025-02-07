@@ -1,4 +1,5 @@
-Real-time Chat Application (GitHub Repository)
+Real-time Chat Application 
+
 Technologies Used: React, Vite, Node.js, Express.js, MongoDB, Socket.io, WebSockets, JWT Authentication
 
 Project Overview:
